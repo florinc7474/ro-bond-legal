@@ -24,6 +24,17 @@ RO Bond este o aplicație mobilă care oferă:
 - Notificări de alertă de preț
 - Conținut educațional despre obligațiuni
 
+### 2.1 Întârzierea Datelor și Frecvența Actualizării
+
+**Informații importante despre actualitatea datelor:**
+- Prețurile obligațiunilor sunt întârziate cu 15 minute sau mai mult față de datele pieței în timp real
+- Intervalele de actualizare în fundal sunt configurabile de către utilizator (implicit: 10 minute)
+- În timpul orelor de piață (9:00-18:00 în zilele lucrătoare), datele se actualizează automat conform setărilor dumneavoastră
+- În afara orelor de piață, Aplicația continuă să solicite date de la BVB/BNR, dar datele reflectă ultima sesiune de tranzacționare și nu se vor modifica până la redeschiderea pieței
+- Disponibilitatea datelor depinde de timpul de funcționare al serviciilor terțe (BVB, BNR)
+
+Aplicația nu furnizează date de piață în timp real. Verificați întotdeauna prețurile curente cu brokerul dumneavoastră sau cu sursele oficiale ale bursei înainte de a lua decizii de investiții.
+
 ## 3. Declinare Importantă - Fără Sfaturi Financiare
 
 **⚠️ VĂ RUGĂM SĂ CITIȚI ACEASTĂ SECȚIUNE CU ATENȚIE**

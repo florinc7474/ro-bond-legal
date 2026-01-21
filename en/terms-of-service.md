@@ -24,6 +24,17 @@ RO Bond is a mobile application that provides:
 - Price alert notifications
 - Educational content about bonds
 
+### 2.1 Data Delay and Refresh Frequency
+
+**Important information about data timeliness:**
+- Bond prices are delayed 15 minutes or more from real-time market data
+- Background refresh intervals are configurable by the user (default: 10 minutes)
+- During market hours (9:00-18:00 weekdays), data updates automatically according to your settings
+- Outside market hours, the App continues to fetch from BVB/NBR, but data reflects the last trading session and will not change until the market reopens
+- Data availability depends on third-party service uptime (BVB, NBR)
+
+The App does not provide real-time market data. Always verify current prices with your broker or official exchange sources before making investment decisions.
+
 ## 3. Important Disclaimer - No Financial Advice
 
 **⚠️ PLEASE READ THIS SECTION CAREFULLY**
@@ -85,8 +96,8 @@ You may not copy, modify, distribute, sell, or lease any part of the App without
 ## 8. Third-Party Services and Data
 
 The App connects to third-party services to retrieve financial data:
-- **BVB (Bursa de Valori București):** [https://www.bvb.ro](https://www.bvb.ro)
-- **NBR (Banca Națională a României):** [https://www.bnr.ro](https://www.bnr.ro)
+- **BVB (Bucharest Stock Exchange):** [https://www.bvb.ro](https://www.bvb.ro)
+- **NBR (National Bank of Romania):** [https://www.bnr.ro](https://www.bnr.ro)
 
 We are not responsible for:
 - The content, accuracy, or availability of these third-party services
