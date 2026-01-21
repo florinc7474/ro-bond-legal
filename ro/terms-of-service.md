@@ -18,7 +18,7 @@ Acești Termeni constituie un acord obligatoriu din punct de vedere juridic înt
 ## 2. Descrierea Serviciului
 
 RO Bond este o aplicație mobilă care oferă:
-- - Prețurile obligațiunilor de stat românești de la BVB (Bursa de Valori București) - prețurile sunt întârziate cu 15 minute sau mai mult
+- Prețurile obligațiunilor de stat românești de la BVB (Bursa de Valori București) - prețurile sunt întârziate cu 15 minute sau mai mult
 - Rate de dobândă de referință de la BNR (Banca Națională a României)
 - Calcule și simulări de randament al investițiilor
 - Notificări de alertă de preț
@@ -85,8 +85,8 @@ Nu puteți copia, modifica, distribui, vinde sau închiria nicio parte a Aplica�
 ## 8. Servicii și Date de la Terți
 
 Aplicația se conectează la servicii terțe pentru a obține date financiare:
-- **BVB (Bursa de Valori București):** https://www.bvb.ro
-- **BNR (Banca Națională a României):** https://www.bnr.ro
+- **BVB (Bursa de Valori București):** [https://www.bvb.ro](https://www.bvb.ro)
+- **BNR (Banca Națională a României):** [https://www.bnr.ro](https://www.bnr.ro)
 
 Nu suntem responsabili pentru:
 - Conținutul, acuratețea sau disponibilitatea acestor servicii terțe
@@ -151,12 +151,12 @@ Nimic din acești Termeni nu afectează drepturile dumneavoastră legale ca și 
 
 ### 12.3 Soluționarea online a litigiilor
 Comisia Europeană oferă o platformă pentru soluționarea online a litigiilor:  
-**https://ec.europa.eu/consumers/odr**
+[**EU Consumer Redress Platform (RO)**](https://consumer-redress.ec.europa.eu/index_ro)
 
 ## 13. Soluționarea Disputelor
 
 ### 13.1 Rezolvare amiabilă
-Înainte de a iniția orice procedură formală, sunteți de acord să ne contactați mai întâi la florinc74@gmail.com pentru a încerca să rezolvați orice dispută pe cale amiabilă în termen de 30 de zile.
+Înainte de a iniția orice procedură formală, sunteți de acord să ne contactați mai întâi la [florinc74@gmail.com](mailto:florinc74@gmail.com) pentru a încerca să rezolvați orice dispută pe cale amiabilă în termen de 30 de zile.
 
 ### 13.2 Mediere
 Dacă rezolvarea amiabilă eșuează, oricare parte poate propune medierea printr-un mediator agreat în Sibiu, România.
@@ -228,7 +228,7 @@ Nu puteți cesiona sau transfera acești Termeni sau drepturile dumneavoastră c
 
 Pentru întrebări despre acești Termeni:
 
-**Email:** florinc74@gmail.com  
+**Email:** [florinc74@gmail.com](mailto:florinc74@gmail.com)  
 **Adresă:** Sibiu, România
 
 Vom răspunde solicitării dumneavoastră într-un termen rezonabil.

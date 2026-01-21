@@ -85,8 +85,8 @@ You may not copy, modify, distribute, sell, or lease any part of the App without
 ## 8. Third-Party Services and Data
 
 The App connects to third-party services to retrieve financial data:
-- **BVB (Bursa de Valori București):** https://www.bvb.ro
-- **NBR (Banca Națională a României):** https://www.bnr.ro
+- **BVB (Bursa de Valori București):** [https://www.bvb.ro](https://www.bvb.ro)
+- **NBR (Banca Națională a României):** [https://www.bnr.ro](https://www.bnr.ro)
 
 We are not responsible for:
 - The content, accuracy, or availability of these third-party services
@@ -151,12 +151,12 @@ Nothing in these Terms affects your statutory rights as a consumer under EU law.
 
 ### 12.3 Online Dispute Resolution
 The European Commission provides an Online Dispute Resolution platform:  
-**https://ec.europa.eu/consumers/odr**
+[**EU Consumer Redress Platform (EN)**](https://consumer-redress.ec.europa.eu/index_en)
 
 ## 13. Dispute Resolution
 
 ### 13.1 Informal Resolution
-Before initiating any formal proceedings, you agree to first contact us at florinc74@gmail.com to attempt to resolve any dispute informally within 30 days.
+Before initiating any formal proceedings, you agree to first contact us at [florinc74@gmail.com](mailto:florinc74@gmail.com) to attempt to resolve any dispute informally within 30 days.
 
 ### 13.2 Mediation
 If informal resolution fails, either party may propose mediation through a mutually agreed mediator in Sibiu, Romania.
@@ -228,7 +228,7 @@ You may not assign or transfer these Terms or your rights under these Terms with
 
 For questions about these Terms:
 
-**Email:** florinc74@gmail.com  
+**Email:** [florinc74@gmail.com](mailto:florinc74@gmail.com)  
 **Address:** Sibiu, Romania
 
 We will respond to your inquiry within a reasonable time period.

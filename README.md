@@ -17,7 +17,8 @@ This repository contains the legal documents for the RO Bond mobile application.
 - Terms of Service: v1.0 (January 2026)
 
 ## For Users
-If you have questions about these documents, please contact: [florinc74@gmail.com]
+If you have questions about these documents, please contact:
+[the RO Bond team](mailto:florinc74@gmail.com)
 
 ## For Developers
 These documents are bundled in the RoBond app for offline access. The public URLs are used for Google Play Store submission.
