@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy for RO Bond
 
-**Last updated: January 2026 | Version 1.0**
+**Last updated: January 2026** | **Version 1.0**
 
 ## Revision History
 - v1.0 (January 2026): Initial version

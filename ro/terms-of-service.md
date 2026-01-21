@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Termeni și Condiții pentru RO Bond
 
-**Ultima actualizare: Ianuarie 2026 | Versiunea 1.0**
+**Ultima actualizare: Ianuarie 2026** | **Versiunea 1.0**
 
 ## Istoricul Reviziilor
 - v1.0 (Ianuarie 2026): Versiunea inițială
