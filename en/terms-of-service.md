@@ -29,7 +29,7 @@ RO Bond is a mobile application that provides:
 **Important information about data timeliness:**
 - Bond prices are delayed 15 minutes or more from real-time market data
 - Background refresh intervals are configurable by the user (default: 10 minutes)
-- During market hours (9:00-18:00 weekdays), data updates automatically according to your settings
+- During market hours (10:00-18:00 weekdays), data updates automatically according to your settings
 - Outside market hours, the App continues to fetch from BVB/NBR, but data reflects the last trading session and will not change until the market reopens
 - Data availability depends on third-party service uptime (BVB, NBR)
 
